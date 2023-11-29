@@ -1,0 +1,11 @@
+{
+  "name": "node-fs",
+  "version": "1.0.0",
+  "description": "using the filesystem in node (txt and json)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run debug"
+  },
+  "author": "Ahraf Isack",
+  "license": "ISC"
+}
