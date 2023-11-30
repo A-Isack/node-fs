@@ -4,6 +4,7 @@
   "description": "using the filesystem in node (txt and json)",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "npm run debug"
   },
   "author": "Ahraf Isack",
