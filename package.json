@@ -8,5 +8,8 @@
     "test": "npm run debug"
   },
   "author": "Ahraf Isack",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1"
+  }
 }
